@@ -120,7 +120,7 @@ Material:
     - _GlossyReflections: 0
     - _INTENSITY: 0
     - _Metallic: 0
-    - _Move_Speed: 2
+    - _Move_Speed: 0
     - _OcclusionStrength: 1
     - _Opacity: 0
     - _Opacity_Glow: -0.01
